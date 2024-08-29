@@ -2,4 +2,4 @@
 A test dataset
 ==============
 
-.. chemiscope:: ../../tester/test.json
+.. chemiscope:: ../../datasets/tester/test.json
