@@ -21,6 +21,7 @@ extensions = [
     "sphinx.ext.viewcode",
     "sphinx_copybutton",
     "moldoc",
+    "chemiscope.sphinx",
 ]
 
 autosummary_imported_members = True
