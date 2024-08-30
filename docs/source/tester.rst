@@ -2,4 +2,6 @@
 A test dataset
 ==============
 
-.. chemiscope:: ../../datasets/tester/test.json
+Once compiled, this will show as this widget
+
+.. chemiscope:: ../../datasets/tester/showcase.json.gz
