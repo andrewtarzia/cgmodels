@@ -4,8 +4,9 @@ A test dataset
 
 Once compiled, this will show as this widget
 
-.. chemiscope:: ../../datasets/tester/showcase.json.gz
+.. chemiscope:: ../../datasets/tester/2p3.json
 
 
-.. chemiscope:: ../../datasets/tester/cgtest.json
-    :mode: structure
+.. chemiscope:: ../../datasets/tester/2p4.json
+
+.. chemiscope:: ../../datasets/tester/3p4.json

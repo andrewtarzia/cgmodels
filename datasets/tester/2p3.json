@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "name": "CGGeom: 2p3",
+        "description": "Minimal models from 2p3",
+        "authors": [
+            "Andrew Tarzia"
+        ],
+        "references": [
+            "'Systematic exploration of accessible topologies of '",
+            "'cage molecules via minimalistic models, Chem. Sci, '",
+            "'DOI: 10.1039/D3SC03991A'"
+        ]
+    },
+    "structures": [
+        {
+            "size": 17,
+            "names": [
+                "C",
+                "Pb",
+                "Pb",
+                "Pb",
+                "C",
+                "Pb",
+                "Pb",
+                "Pb",
+                "Ba",
+                "Ag",
+                "Ba",
+                "Ba",
+                "Ag",
+                "Ba",
+                "Ba",
+                "Ag",
+                "Ba"
+            ],
+            "x": [
+                1.411456,
+                1.714008,
+                0.623274,
+                0.755125,
+                -0.240421,
+                -0.099541,
+                -1.150067,
+                -1.111597,
+                1.854332,
+                0.924646,
+                -0.026956,
+                0.161231,
+                -0.773257,
+                -1.673752,
+                0.214315,
+                -0.79644,
+                -1.752355
+            ],
+            "y": [
+                -1.301087,
+                0.033067,
+                -0.188328,
+                -0.034446,
+                -2.552782,
+                -1.288599,
+                -1.659761,
+                -1.359772,
+                0.879775,
+                0.221151,
+                -0.481923,
+                0.631788,
+                -0.116309,
+                -0.936879,
+                0.764305,
+                0.100036,
+                -0.603237
+            ],
+            "z": [
+                1.240678,
+                0.639043,
+                0.59042,
+                1.68598,
+                -0.353395,
+                -1.161138,
+                -1.129321,
+                -0.056346,
+                0.136874,
+                -0.838909,
+                -1.760411,
+                0.219993,
+                -0.684571,
+                -1.562599,
+                1.927436,
+                1.040083,
+                0.123183
+            ]
+        }
+    ],
+    "properties": {
+        "tstr": {
+            "target": "structure",
+            "values": [
+                "2P3"
+            ],
+            "units": "none",
+            "description": "name of topology graph"
+        },
+        "torsion": {
+            "target": "structure",
+            "values": [
+                "ton"
+            ],
+            "units": "none",
+            "description": "ton if torsions are restricted, else toff"
+        },
+        "E_b": {
+            "target": "structure",
+            "values": [
+                15.485229551792145
+            ],
+            "units": "kjmol-1",
+            "description": "energy per building block"
+        },
+        "l_angle": {
+            "target": "structure",
+            "values": [
+                50
+            ],
+            "units": "degrees",
+            "description": "large input angle of the two options"
+        },
+        "s_angle": {
+            "target": "structure",
+            "values": [
+                90
+            ],
+            "units": "degrees",
+            "description": "small input angle of the two options"
+        },
+        "pore_radius": {
+            "target": "structure",
+            "values": [
+                0.8982128768262286
+            ],
+            "units": "AA",
+            "description": "pore radius of the cage"
+        }
+    },
+    "settings": {
+        "structure": [
+            {
+                "bonds": true,
+                "spaceFilling": false,
+                "atomLabels": false,
+                "unitCell": false,
+                "rotation": false,
+                "supercell": {
+                    "0": 2,
+                    "1": 2,
+                    "2": 2
+                },
+                "keepOrientation": false
+            }
+        ]
+    }
+}
