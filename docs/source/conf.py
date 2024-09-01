@@ -30,11 +30,7 @@ autodoc_member_order = "groupwise"
 autodoc_type_aliases = {}
 autoclass_content = "both"
 
-intersphinx_mapping = {
-    "python": ("https://docs.python.org/3", None),
-    "numpy": ("https://numpy.org/doc/stable/", None),
-    "pandas": ("https://pandas.pydata.org/docs/", None),
-}
+intersphinx_mapping = {}
 
 html_static_path = ["_static"]
 templates_path = ["_templates"]
@@ -44,4 +40,4 @@ exclude_patterns: list[str] = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "sphinx_rtd_theme"
+html_theme = "alabaster"
