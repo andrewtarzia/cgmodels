@@ -1,19 +1,20 @@
+.. contents:: Table of Contents
+
 ===============
 Model dataset 1
 ===============
 
-
 Exploring self-sorting outcomes and topology maps in cage-like molecules.
 
-Publication: `Systematic exploration of accessible topologies of cage molecules via minimalistic models`__
-
-__ https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03991a
-
+Publication: `Systematic exploration of accessible topologies of cage molecules via minimalistic models <https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03991a>`_
 
 Based on building block properties, we have defined accessible topology maps, which give an idea of what cage topology you are likely to get after self-assembly:
 
 .. image:: _static/self_sort_maps.png
   :alt: Summary of self-sort maps.
+
+Notion database
+===============
 
 This is a simple interface where you can map the angles and building block connectivities of interest to stable topologies.
 
@@ -25,6 +26,18 @@ __ https://tarziaresearch.notion.site/actual-app-5a5b2f3c5a564fdeaf59c0752bf1ca6
 
 **Go to GitHub repository with structure and self-sort images**: `CGModel repositories`__
 
-__ https://github.com/andrewtarzia/cgmodels/tree/main/cg_model_jul2023)
+__ https://github.com/andrewtarzia/cgmodels/tree/main/datasets/cg_model_jul2023
 
+
+chemiscope visualisation
+========================
+
+.. toctree::
+  :maxdepth: 1
+
+  Restricted torsions, ditopic + tritopic <cg_model_jul2023_2p3_ton>
+  Unrestricted torsions, ditopic + tritopic <cg_model_jul2023_2p3_toff>
+  Restricted torsions, ditopic + tetratopic <cg_model_jul2023_2p4_ton>
+  Unrestricted torsions, ditopic + tetratopic <cg_model_jul2023_2p4_toff>
+  Unrestricted torsions, tritopic + tetratopic <cg_model_jul2023_3p4_toff>
 
