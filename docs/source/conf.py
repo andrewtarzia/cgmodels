@@ -41,3 +41,7 @@ exclude_patterns: list[str] = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "alabaster"
+html_theme_options = {
+    "body_max_width": "none",
+    "page_width": "auto",
+}
