@@ -8,7 +8,7 @@ maintainers = [
   { name = "Andrew Tarzia", email = "andrew.tarzia@gmail.com" },
 ]
 dependencies = [
-  "chemiscope",
+  "chemiscope>0.7.3",
 ]
 requires-python = ">=3.11"
 dynamic = ["version"]
