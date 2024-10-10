@@ -13,6 +13,24 @@ Based on building block properties, we have defined accessible topology maps, wh
 .. image:: _static/self_sort_maps.png
   :alt: Summary of self-sort maps.
 
+chemiscope visualisation
+========================
+
+For helping with this, I must thank G. Fraux (@Luthaf), M. Ceriotti and the
+Cerrioti group. Here is a link to their paper on
+`chemiscope <https://joss.theoj.org/papers/10.21105/joss.02117>`_.
+
+.. toctree::
+  :maxdepth: 1
+
+  Restricted torsions, ditopic + tritopic <cg_model_jul2023_2p3_ton>
+  Unrestricted torsions, ditopic + tritopic <cg_model_jul2023_2p3_toff>
+  Restricted torsions, ditopic + tetratopic <cg_model_jul2023_2p4_ton>
+  Unrestricted torsions, ditopic + tetratopic <cg_model_jul2023_2p4_toff>
+  Unrestricted torsions, tritopic + tetratopic <cg_model_jul2023_3p4_toff>
+
+
+
 Notion database
 ===============
 
@@ -28,16 +46,4 @@ __ https://tarziaresearch.notion.site/actual-app-5a5b2f3c5a564fdeaf59c0752bf1ca6
 
 __ https://github.com/andrewtarzia/cgmodels/tree/main/datasets/cg_model_jul2023
 
-
-chemiscope visualisation
-========================
-
-.. toctree::
-  :maxdepth: 1
-
-  Restricted torsions, ditopic + tritopic <cg_model_jul2023_2p3_ton>
-  Unrestricted torsions, ditopic + tritopic <cg_model_jul2023_2p3_toff>
-  Restricted torsions, ditopic + tetratopic <cg_model_jul2023_2p4_ton>
-  Unrestricted torsions, ditopic + tetratopic <cg_model_jul2023_2p4_toff>
-  Unrestricted torsions, tritopic + tetratopic <cg_model_jul2023_3p4_toff>
 
