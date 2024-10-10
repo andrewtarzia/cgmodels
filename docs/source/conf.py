@@ -44,4 +44,5 @@ html_theme = "alabaster"
 html_theme_options = {
     "body_max_width": "none",
     "page_width": "auto",
+    "font_size": 10,
 }
