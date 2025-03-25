@@ -16,3 +16,7 @@ Publications
 * Model dataset 1: `Systematic exploration of accessible topologies of cage molecules via minimalistic models`__
 
 __ https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03991a
+
+* STARSHIPS TBA: `Systematic exploration of accessible topologies of cage molecules via minimalistic models`__
+
+__ https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03991a
