@@ -1,5 +1,3 @@
-.. contents:: Table of Contents
-
 =======================================
 Restricted torsions, ditopic + tritopic
 =======================================

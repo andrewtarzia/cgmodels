@@ -1,5 +1,3 @@
-.. contents:: Table of Contents
-
 ===============
 Model dataset 1
 ===============
@@ -14,7 +12,7 @@ Based on building block properties, we have defined accessible topology maps, wh
   :alt: Summary of self-sort maps.
 
 chemiscope visualisation
-========================
+------------------------
 
 For helping with this, I must thank G. Fraux (@Luthaf), M. Ceriotti and the
 Cerrioti group. Here is a link to their paper on
@@ -32,7 +30,7 @@ Cerrioti group. Here is a link to their paper on
 
 
 Notion database
-===============
+---------------
 
 This is a simple interface where you can map the angles and building block connectivities of interest to stable topologies.
 
@@ -45,5 +43,3 @@ __ https://tarziaresearch.notion.site/actual-app-5a5b2f3c5a564fdeaf59c0752bf1ca6
 **Go to GitHub repository with structure and self-sort images**: `CGModel repositories`__
 
 __ https://github.com/andrewtarzia/cgmodels/tree/main/datasets/cg_model_jul2023
-
-

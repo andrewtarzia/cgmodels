@@ -4,6 +4,7 @@
    :maxdepth: 1
 
    Model dataset 1 <cg_model_jul2023.rst>
+   STARSHIPS TBD <starships_mar2025.rst>
 
 
 Overview
@@ -17,7 +18,7 @@ I have developed over the years.
 
 Everything shown here is built with a combination of:
 
-* `cgexplore <https://cgexplore.readthedocs.io>`_
+* `cgx <https://cgexplore.readthedocs.io>`_
 
 * `stk <https://stk.readthedocs.io>`_
 
@@ -33,6 +34,7 @@ providing an incredible way of showing chemical structures and data.
 
 
 Publications and datasets
-=========================
+-------------------------
 
 - `Systematic exploration of accessible topologies of cage molecules via minimalistic models (July 2023) <cg_model_jul2023.html>`_
+- `STARSHIPS (March 2025) <starships_mar2025.html>`_

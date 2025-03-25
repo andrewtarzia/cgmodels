@@ -1,5 +1,3 @@
-.. contents:: Table of Contents
-
 =========================================
 Unrestricted torsions, ditopic + tritopic
 =========================================

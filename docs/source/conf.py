@@ -32,7 +32,6 @@ autoclass_content = "both"
 
 intersphinx_mapping = {}
 
-html_static_path = ["_static"]
 templates_path = ["_templates"]
 exclude_patterns: list[str] = []
 
@@ -40,9 +39,7 @@ exclude_patterns: list[str] = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "alabaster"
-html_theme_options = {
-    "body_max_width": "none",
-    "page_width": "auto",
-    "font_size": 10,
-}
+html_theme = "furo"
+html_static_path = ["_static"]
+html_logo = "_static/logo.png"
+html_theme_options = {}
