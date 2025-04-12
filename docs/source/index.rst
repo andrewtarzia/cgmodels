@@ -4,7 +4,7 @@
    :maxdepth: 1
 
    Model dataset 1 <cg_model_jul2023.rst>
-   STARSHIPS TBD <starships_mar2025.rst>
+   Starships scan <starships_mar2025.rst>
 
 
 Overview
@@ -38,3 +38,8 @@ Publications and datasets
 
 - `Systematic exploration of accessible topologies of cage molecules via minimalistic models (July 2023) <cg_model_jul2023.html>`_
 - `STARSHIPS (March 2025) <starships_mar2025.html>`_
+
+Acknowledgements
+----------------
+
+Funded by the European Union - Next Generation EU, Mission 4 Component 1 CUP E13C22002930006.

@@ -1,14 +1,10 @@
 ======================
-STARSHIPS scan dataset
+Starships scan dataset
 ======================
 
 Exploring starship topology stability as a function of building block angles.
 
 Publication: `TBD <https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03991a>`_
-
-
-chemiscope visualisation
-------------------------
 
 .. chemiscope:: ../../datasets/starships_mar2025/cs_bac-dde_starships.json.gz
 
