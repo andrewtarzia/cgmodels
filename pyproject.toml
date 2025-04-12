@@ -22,9 +22,9 @@ dev = [
   "sphinx-copybutton",
   "sphinx-rtd-theme",
   "twine",
+  "furo",
 ]
 
 [project.urls]
 github = "https://github.com/andrewtarzia/cgmodels"
 documentation = "https://cgmodels.readthedocs.io"
-
