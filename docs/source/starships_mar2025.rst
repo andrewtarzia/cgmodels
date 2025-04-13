@@ -6,6 +6,8 @@ Exploring starship topology stability as a function of building block angles.
 
 Publication: `TBD <https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03991a>`_
 
+Code: `starships <https://github.com/andrewtarzia/starships>`_
+
 .. chemiscope:: ../../datasets/starships_mar2025/cs_bac-dde_starships.json.gz
 
 For helping with this, I must thank G. Fraux (@Luthaf), M. Ceriotti and the
