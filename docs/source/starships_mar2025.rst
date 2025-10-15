@@ -4,7 +4,7 @@ Starships scan dataset
 
 Exploring starship topology stability as a function of building block angles.
 
-Publication: `TBD <https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03991a>`_
+Publication: `Adjacent backbone interactions control self-sorting of chiral heteroleptic Pd3A2B4 isosceles triangles and Pd4A4C4 pseudo-tetrahedra <https://doi.org/10.1016/j.chempr.2025.102780>`_
 
 Code: `starships <https://github.com/andrewtarzia/starships>`_
 

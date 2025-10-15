@@ -4,7 +4,8 @@
    :maxdepth: 1
 
    Model dataset 1 <cg_model_jul2023.rst>
-   Blind prediction <blind_oct2025.rst>
+   Starship prediction <starships_mar2025.rst>
+   Blind structure prediction <blind_oct2025.rst>
 
 
 Overview
@@ -37,9 +38,9 @@ pushing by following the steps in `chemiscope documentation <https://chemiscope.
 Publications and datasets
 -------------------------
 
-* `Systematic exploration of accessible topologies of cage molecules via minimalistic models (July 2023) <cg_model_jul2023.html>`_
+* `Systematic exploration of accessible cage topologies (July 2023) <cg_model_jul2023.html>`_
 
-.. - `STARSHIPS (March 2025) <starships_mar2025.html>`_
+* `Starship structure prediction (March 2025) <starships_mar2025.html>`_
 
 * `Graph enumeration for blind structure prediction of cage structures (October 2025) <blind_oct2025.html>`_
 
