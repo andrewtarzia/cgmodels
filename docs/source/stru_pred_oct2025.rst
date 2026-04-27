@@ -15,7 +15,7 @@ multiple stoichiometries for the same number of building blocks, and for each
 structure you can find out their stoichiometry from the ``stoichstring`` in the
 property box on the bottom right.
 
-.. chemiscope:: ../../datasets/blind_oct2025/genetic4.json.gz
+.. chemiscope:: ../../datasets/structure_prediction_oct2025/cu18.json.gz
 
 
 Atomistic structure prediction
@@ -26,4 +26,4 @@ This dataset contains the predicted atomistic structure of ``s=2:3`` for
 shows the relative GFN2-xTB energy versus the numnber of building blocks to
 seperate the data by ``m``.
 
-.. chemiscope:: ../../datasets/blind_oct2025/mgen_cs6.json.gz
+.. chemiscope:: ../../datasets/structure_prediction_oct2025/atomistic.json.gz

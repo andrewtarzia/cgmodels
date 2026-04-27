@@ -5,7 +5,7 @@
 
    Model dataset 1 <cg_model_jul2023.rst>
    Starship prediction <starships_mar2025.rst>
-   Structure prediction <blind_oct2025.rst>
+   Structure prediction <stru_pred_oct2025.rst>
 
 
 Overview
@@ -42,7 +42,7 @@ Publications and datasets
 
 * `Scanning forcefield parameters of starships (March 2025) <starships_mar2025.html>`_
 
-* `Predicting stable cage structures by enumerating stoichiometry and topology (October 2025) <blind_oct2025.html>`_
+* `Predicting stable cage structures by enumerating stoichiometry and topology (October 2025) <stru_pred_oct2025.html>`_
 
 Acknowledgements
 ----------------
