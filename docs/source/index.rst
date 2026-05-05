@@ -42,7 +42,7 @@ Publications and datasets
 
 * `Scanning forcefield parameters of starships (March 2025) <starships_mar2025.html>`_
 
-* `Predicting stable cage structures by enumerating stoichiometry and topology (October 2025) <stru_pred_oct2025.html>`_
+* `Unbiased structure prediction of sophisticated cage structures (October 2025) <stru_pred_oct2025.html>`_
 
 Acknowledgements
 ----------------

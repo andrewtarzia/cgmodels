@@ -21,7 +21,7 @@ __ https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03991a
 
 __ https://www.cell.com/chem/fulltext/S2451-9294(25)00371-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2451929425003717%3Fshowall%3Dtrue
 
-* Structure prediction dataset: `Predicting stable cage structures by enumerating stoichiometry and topology`__
+* Structure prediction dataset: `Unbiased structure prediction of sophisticated cage structures`__
 
 __ https://chemrxiv.org/engage/chemrxiv/article-details/68f0ef40bc2ac3a0e051be52
 
